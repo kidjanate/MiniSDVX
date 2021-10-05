@@ -1,6 +1,6 @@
 # MiniSDVX
 A handmade Sound Voltex controller made with Arduino board (Also works on Osu!, Mania games and more!)
-# Hardware required
+## Hardware required
 * 1x [Arduino Leonardo Pro Micro](https://shopee.co.th/Arduino-Leonardo-Pro-Micro-i.85361299.1537392088)
 * 7x Mechanical Switches
 * 7x Keycaps
